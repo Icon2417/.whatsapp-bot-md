@@ -55,7 +55,7 @@ module.exports = {
   SEND_READ: toBool(process.env.SEND_READ),
   KOYEB: toBool(process.env.KOYEB),
   KOYEB_NAME: (process.env.KOYEB_NAME || 'Icobot').trim(),
-  KOYEB_API: (process.env.KOYEB_API || 'https://github.com/lyfe00011/whatsapp-bot-md/wiki/DATABASE_URL').trim(),
+  KOYEB_API: (process.env.KOYEB_API || '1vwhcyyr7whgj8vq0lbznn0q8vyx73o1v8vg633ze000jp80vgbkzn441nagyekd').trim(),
   AJOIN: toBool(process.env.AJOIN),
   GPT: (process.env.GPT || 'free').trim(),
   MODEL: (process.env.MODEL || 'gpt-3.5-turbo').trim(),
